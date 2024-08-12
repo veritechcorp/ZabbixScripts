@@ -5,8 +5,8 @@ OTS hardware allowing for other hardware to be used.<br />
 Simon mentioned this library: https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
 
 
-<p><p>
-Previous email sent to Michael:
+
+#####Previous email sent to Michael:
   <code>I’ve just spoken with our clients John Deere dealer and they’ve advised that the output will be a standard ISO bus (ISO 11783) output.
 There should be plenty of resources online, the spec is here (costs money and likely not required, but let me know if it is required): https://www.iso.org/standard/57556.html
 There seems to be some Python and C++ libraries, like here: https://github.com/Open-Agriculture/AgIsoStack-plus-plus
