@@ -1,6 +1,40 @@
 # Main Project for Almond Volume Sensing
 Main project for Almond Volume Sensing using LD05 and Raspberry Pi.<p>
 
+## Software Development
+Tasks to perform
+>  Project Initialization	Requirements Gathering		
+> 	Initial Meeting with Client		
+> 	Project Plan Development		
+> 	Team Assignment		
+>  Hardware Setup	Procurement of LIDAR Sensor and Raspberry Pi 5 Compute Unit		
+> 	Hardware Configuration		
+> 	Testing Hardware Components		
+> Software Development	LIDAR Data Acquisition		Research and Select LIDAR Library
+> 			Implement LIDAR Data Acquisition
+> 			Test LIDAR Data Acquisition
+> 	Data Storage		Design Data Storage Structure
+> 			Implement Data Storage Solution
+> 			Test Data Storage Solution
+> 	Data Processing		Develop Algorithms for Data Processing
+> 			Implement Heatmap Generation
+> 			Test Data Processing and Heatmap Generation
+> 	Data Output to John Deere Display		Research ISO 11783 Standard and Libraries
+> 			Implement Data Output in ISO 11783 Format
+> 			Test Data Output to John Deere Display
+> Integration and Testing	System Integration		
+> 	End-to-End Testing		
+> 	User Acceptance Testing (UAT)		
+> Documentation	Code Documentation		
+> 	User Manual		
+> 	Technical Documentation		
+> Deployment and Support	Deployment Plan		
+> 	System Deployment		
+> 	Post-Deployment Support		
+> Project Management	Regular Status Meetings		
+> 	Progress Reporting		
+> 	Risk Management		
+ 
 ## Notes to add:<br />
 OTS hardware allowing for other hardware to be used.<br />
 
