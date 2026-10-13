@@ -25,7 +25,7 @@ fi
 log_msg "Starting hourly update check..."
 cd "${REPO_DIR}"
 
-if git fetch --quiet --timeout=10 origin; then
+if timeout 10 git fetch --quiet origin; then
   LOCAL_HASH=$(git rev-parse HEAD)
   REMOTE_HASH=$(git rev-parse @{u} 2>/dev/null || echo "$LOCAL_HASH")
 
